@@ -1,28 +1,13 @@
 <a name="readme-top"></a>
 
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="readme-template/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -46,159 +31,128 @@ REQUIRED SECTIONS:
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse-Project] <a name="about-project"></a>
+# 📖 [Hello Microverse!] <a name="about-project"></a>
+
+> This is my first Microverse project, Module 1 about HTML and CSS linters. 
 
 
-**[Hello-Microverse-Project is a HTML-CSS project to set up linters]** 
+## 🛠 Built With <a name="built-with"></a>
 
-## 🛠 Built With HTML and CSS <a name="built-with"></a>
-
-### Tech Stack HTML and CSS <a name="tech-stack"></a>
+### Tech Stack <a name="tech-stack"></a>
 
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">HTML-CSS</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[HTML]**
-- **[CSS]**
-- **[Linters for HTML and CSS]**
+- **[HTML and CSS linters in place to analyze source code and prevent varios errors and bugs]**
+- **[node modules]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [https://github.com/pulls](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://github.com/MelissaKamau/Hello-Microverse-Project.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-
-In order to run this project you need:
-
-<!--
-File> New> Project on the menu bar
-``` CtrlShift+N
- -->
+In order to run this project, you need:
+Github
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-
-```
-  cd my-folder
-  git clone git@github.com:MelissaKamau/Hello-Microverse-Project.git
-```
---->
+git clone "git@github.com:MelissaKamau/Hello-Microverse-Project.git"
 
 ### Install
 
 Install this project with:
 
-<!--
-
-```sh
-  cd my-project
-  
-```
---->
+Installation is not required
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-
-```code .
-```
---->
+Not required
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-
-```/testcontainer:microverse-projects\Hello-Microverse-Project\TestProjectAssembly.dll
-```
---->
+Not required
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-
-```npm init -y
-
-```
- -->
+Not required
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
+> Ram Kumar Karuppusamy
 
 👤 **Author1**
 
-- GitHub: [@MelissaKamau](https://github.com/MelissaKamau)
+- GitHub: [@MelissaKamau](https://github.com/MelissaKamau/)
 - Twitter: [@_wanjirumelissa](https://twitter.com/_wanjirumelissa)
-- LinkedIn: [MellisaKamau](https://linkedin.com/in/MelissaKamau)
+- LinkedIn: [MellisaKamau](https://www.linkedin.com/in/mellisa-kamau-824ab8252/)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Javascrippt linters]**
-- [ ] **[React linters]**
-- [ ] **[Ruby linters]**
+
+- [ ] **[Add more content to web page]**
+- [ ] **[Add more styling to web page]**
+- [ ] **[Make the web page mobile friendly]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -208,11 +162,10 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project feel free to leave a comment. Let's help each other grow
+If you like this project please leave a comment...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,30 +173,28 @@ If you like this project feel free to leave a comment. Let's help each other gro
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the support given
+I would like to thank Microverse for the support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[What Code Editor do you use]**
+- **[What is the licensing used]**
 
-  - [Visual Studio Code]
-
-- **[Which Version Manager was used]**
+  - [The project is open source, MIT license. Feel free to use the code]
+  
+  - **[Which version manager was used in the code]**
 
   - [Node Version Manager (NVM)]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
