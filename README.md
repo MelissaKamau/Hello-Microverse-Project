@@ -184,7 +184,7 @@ I would like to thank Microverse for the support
 
   - [The project is open source, MIT license. Feel free to use the code]
   
-  - **[Which version manager was used in the code]**
+- **[Which version manager was used in the code]**
 
   - [Node Version Manager (NVM)]
 
