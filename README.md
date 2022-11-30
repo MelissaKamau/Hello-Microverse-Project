@@ -97,7 +97,7 @@ Github
 
 Clone this repository to your desired folder:
 
-git clone "git@github.com:MelissaKamau/Hello-Microverse-Project.git"
+git clone git@github.com:MelissaKamau/Hello-Microverse-Project.git
 
 ### Install
 
@@ -128,7 +128,7 @@ Not required
 
 ## 👥 Authors <a name="authors"></a>
 
-> Ram Kumar Karuppusamy
+> Mellisa Kamau
 
 👤 **Author1**
 
